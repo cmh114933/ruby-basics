@@ -87,7 +87,7 @@ Ruby
 nil
 ```
 +++
-Unlike Javascript, only `false` and `nil` evaluate to falsy values.
+Unlike Javascript, in Ruby only `false` and `nil` evaluate to falsy values.
 +++
 Creating arrays
 ```ruby
