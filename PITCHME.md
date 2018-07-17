@@ -63,6 +63,7 @@ Ruby
 100
 1.2
 ```
+---
 - Boolean
 ```ruby
 true
@@ -139,7 +140,6 @@ else
   puts "between 2 and 5"
 end
 ```
----
 +++
 ### Loops
 - for (on interables only)
