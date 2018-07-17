@@ -63,7 +63,7 @@ Ruby
 100
 1.2
 ```
----
++++
 - Boolean
 ```ruby
 true
@@ -166,7 +166,7 @@ Strings, array and hashes are iterables
     p x
   end
 ```
-+++
+---
 ### Methods 
 Or as you're more familiar with: functions
 +++
